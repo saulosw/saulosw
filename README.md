@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu me chamo Saulo Pereira de Jesus</h1>
-<h3 align="center">Eu sou programador e desenvolvedor Python aqui no Brasil!</h3>
+<h3 align="center">Eu sou programador e desenvolvedor Python brasileiro!</h3>
 
 - 🌱 Atualmente eu estou aprendendo: **C#, Django, HTML & CSS e JavaScript através da Faculdade e Cursos Online**
 
