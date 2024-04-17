@@ -9,8 +9,6 @@
 
 - ⚡ Fato interessante sobre mim: **Eu sempre amei programar mesmo sem saber quando criança, e meu sonho era fazer jogos, tentei aprender C# quando tinha onze anos, mas o que me fez apaixonar por programação era esse meu interesse que eu sempre tive por aprender algo novo, e permaneço com essa determinação, mas não mais em relação a desenvolvimento de jogos, haha!**
 
-- 📫 Está precisando de um desenvolvedor especializado em Python, competente e com entusiasmo para trabalhar? Contate-me: **saulopereiradejesus@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lakeklol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakeklol" height="30" width="40" /></a>
