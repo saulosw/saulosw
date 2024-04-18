@@ -4,7 +4,7 @@
 
 - 🌎 Linguas que eu falo: **Português e Inglês**
 
-- 📄 Sobre minhas experiências: Como dito anteriormente, eu nunca trabalhei porém participei de diversas Game Jam's. Sendo assim eu sei lidar em situações em programar em um curto período de tempo.
+- 📄 Sobre minhas experiências: Participei de diversas Game Jam's, e devido a isso sei como lidar em situações em programar em um curto período de tempo.
 
 - ⚡ Fato interessante sobre mim: **Eu sempre amei programar mesmo sem saber quando criança, e meu sonho era fazer jogos, tentei aprender C# quando tinha onze anos, mas o que me fez apaixonar por programação era esse meu interesse que eu sempre tive por aprender algo novo, e permaneço com essa determinação, mas não mais em relação a desenvolvimento de jogos, haha!**
 
