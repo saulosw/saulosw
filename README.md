@@ -1,12 +1,12 @@
-<h1 align="center">Olá 👋, Eu me chamo Saulo Pereira de Jesus</h1>
+<h1 align="center">Hello 👋, My name is Saulo Pereira de Jesus</h1>
 
-- 🌱 Atualmente eu estou aprendendo: **JavaScript, TypeScript, Node.js e React através da Faculdade e Cursos Online**
+- 🌱 Currently, I'm learning: **JavaScript, TypeScript, Node.js, and React through College and Online Courses**
 
-- 🌎 Linguas que eu falo: **Português e Inglês**
+- 🌎 Languages I speak: **Portuguese and English**
 
-- 📄 Sobre minhas experiências: Participei de diversas Game Jam's, e devido a isso sei como lidar em situações em programar em um curto período de tempo.
+- 📄 About my experiences: I have participated in several Game Jams, and as a result, I know how to handle programming situations in a short period of time.
 
-- ⚡ Fato interessante sobre mim: **Eu sempre amei programar mesmo sem saber quando criança, e meu sonho era fazer jogos, tentei aprender C# quando tinha onze anos, mas o que me fez apaixonar por programação era esse meu interesse que eu sempre tive por aprender algo novo, e permaneço com essa determinação, mas não mais em relação a desenvolvimento de jogos, haha!**
+- ⚡ Interesting fact about me: **I've always loved programming even without knowing much about it when I was a kid, and my dream was to make games. I tried to learn C# when I was eleven, but what made me fall in love with programming was this interest I've always had in learning something new, and I remain determined, but no longer in relation to game development, haha!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
