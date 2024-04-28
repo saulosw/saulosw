@@ -4,7 +4,7 @@
 
 - 🌎 Languages I speak: **Portuguese and English**
 
-- 📄 About my experiences: I have participated in several Game Jams, and as a result, I know how to handle programming situations in a short period of time.
+- 📄 About my experiences: **I have participated in several Game Jams, and as a result, I know how to handle programming situations in a short period of time.**
 
 - ⚡ Interesting fact about me: **I've always loved programming even without knowing much about it when I was a kid, and my dream was to make games. I tried to learn C# when I was eleven, but what made me fall in love with programming was this interest I've always had in learning something new, and I remain determined, but no longer in relation to game development, haha!**
 
