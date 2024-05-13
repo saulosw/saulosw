@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, My name is Saulo Pereira de Jesus</h1>
 
-- 🌱 Currently, I'm learning: **JavaScript, TypeScript, Node.js, and React through College and Online Courses**
+- 🌱 Currently, I'm learning: **JavaScript, Python and Node.js through College and Online Courses**
 
 - 🌎 Languages I speak: **Portuguese and English**
 
