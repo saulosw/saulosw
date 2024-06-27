@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name is Saulo Pereira de Jesus</h1>
+<h1 align="center">Hello 👋, My name is Saulo Pereira</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="Typing GIF" width="300" height="300" />
