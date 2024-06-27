@@ -1,12 +1,13 @@
+<h1 align="center">Hello 👋, My name is Saulo Pereira de Jesus</h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="Typing GIF" width="300" height="300" />
 </div>
-<h1 align="center">Hello 👋, My name is Saulo Pereira de Jesus</h1>
 
-<p align="center">🌱 Currently, I'm learning: <strong>Django, Node.js and React through College and Online Courses</strong></p>
-<p align="center">🌎 Languages I speak: <strong>Portuguese and English</strong></p>
-<p align="center">📄 About my experiences: <strong>I have participated in several Game Jams and a programming marathon, and as a result, I know how to handle programming situations in a short period of time.</strong></p>
-<p align="center">⚡ Interesting fact about me: <strong>I've always loved programming even without knowing much about it when I was a kid, and my dream was to make games. I tried to learn C# when I was eleven, but what made me fall in love with programming was this interest I've always had in learning something new, and I remain determined, but no longer in relation to game development, haha!</strong></p>
+<p align="center">🌱 Learning: <strong>Django, Node.js and React</strong></p>
+<p align="center">🌎 Languages: <strong>Portuguese and English</strong></p>
+<p align="center">📄 Experience: <strong>Participated in Game Jams and a programming marathon, skilled in handling time-sensitive programming tasks.</strong></p>
+<p align="center">⚡ Fun fact: <strong>Always passionate about programming since childhood, initially aiming for game development.</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
