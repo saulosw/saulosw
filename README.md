@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">🌱 Learning: <strong>Currently studying Django, Node.js, and React.</strong></p>
-<p align="center">🌎 Languages: <strong>Proficient in Portuguese and English.</strong></p>
+<p align="center">🌎 Languages: <strong>Portuguese and English.</strong></p>
 <p align="center">📄 Experience: <strong>I have participated in Game Jams and a programming marathon, gaining experience in handling time-sensitive programming tasks.</strong></p>
 <p align="center">⚡ Fun fact: <strong>Always passionate about programming since childhood, with an initial goal of game development.</strong></p>
 
