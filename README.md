@@ -21,20 +21,17 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,java,cs"/>
   </a>
 </p>
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 
 <h4 align="center">Database</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
