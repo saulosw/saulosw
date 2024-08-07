@@ -32,7 +32,7 @@
 
 <h4 align="center">Database</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 </p>
 
