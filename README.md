@@ -21,7 +21,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,java,cs"/>
+    <img src="https://skillicons.dev/icons?i=py,java,cs,django"/>
   </a>
 </p>
 <h4 align="center">Frontend</h4>
