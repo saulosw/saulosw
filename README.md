@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="Typing GIF" width="300" height="300" />
 </div>
 
-<p align="center">🌱 Learning: <strong>Currently studying TypeScript, Node.js, and React.</strong></p>
+<p align="center">🌱 Learning: <strong>Currently studying Node.js, React and TypeScript.</strong></p>
 <p align="center">🌎 Languages: <strong>Portuguese and English.</strong></p>
 <p align="center">📄 Experience: <strong>I have participated in Game Jams and a programming marathon, gaining experience in handling time-sensitive programming tasks.</strong></p>
 <p align="center">⚡ Fun fact: <strong>Always passionate about programming since childhood, with an initial goal of game development.</strong></p>
