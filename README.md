@@ -7,8 +7,8 @@
 
 <p align="center">🌱 Learning: <strong>Currently studying Node.js, React and TypeScript.</strong></p>
 <p align="center">🌎 Languages: <strong>Portuguese and English.</strong></p>
-<p align="center">📄 Experience: <strong>I have participated in Game Jams and a programming marathon, gaining experience in handling time-sensitive programming tasks.</strong></p>
-<p align="center">⚡ Fun fact: <strong>Always passionate about programming since childhood, with an initial goal of game development.</strong></p>
+<p align="center">📄 Experience: <strong>Participated in multiple Game Jams and a Programming Marathon, where I honed my problem-solving skills and learned how to tackle time-sensitive tasks.</strong></p>
+<p align="center">⚡ Fun fact: <strong>My love for programming started at age 13, initially driven by a dream of making games. Today, I’m always excited to learn and apply new technologies!</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
