@@ -26,7 +26,7 @@
 </p>
 <h4 align="center">Frontend</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
   </a>
 </p>
 
