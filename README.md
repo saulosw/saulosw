@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" alt="Typing GIF" width="300" height="300" />
 </div>
 
-<p align="center">🌱 Learning: <strong>Currently studying Node.js, React and TypeScript.</strong></p>
+<p align="center">🌱 Learning: <strong>Currently studying Java and Spring Boot.</strong></p>
 <p align="center">🌎 Languages: <strong>Portuguese and English.</strong></p>
 <p align="center">📄 Experience: <strong>Participated in multiple Game Jams and a Programming Marathon, where I honed my problem-solving skills and learned how to tackle time-sensitive tasks.</strong></p>
 <p align="center">⚡ Fun fact: <strong>My love for programming started at age 13, initially driven by a dream of making games. Today, I’m always excited to learn and apply new technologies!</strong></p>
