@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, My name is Saulo Pereira</h1>
 
 <div align="center">
@@ -7,8 +6,14 @@
 
 <p align="center">🌱 Learning: <strong>Currently studying Java and Spring Boot.</strong></p>
 <p align="center">🌎 Languages: <strong>Portuguese and English.</strong></p>
-<p align="center">📄 Experience: <strong>Participated in multiple Game Jams and a Programming Marathon, where I honed my problem-solving skills and learned how to tackle time-sensitive tasks.</strong></p>
-<p align="center">⚡ Fun fact: <strong>My love for programming started at age 13, initially driven by a dream of making games. Today, I’m always excited to learn and apply new technologies!</strong></p>
+<p align="center">
+  📄 Experience: 
+  <strong>
+    Participated in multiple Game Jams and a Programming Marathon, where I honed my problem-solving skills and learned how to tackle time-sensitive tasks.
+    Currently interning in data, where I'm diving into automation, building efficient data pipelines, exploring innovative ways to transform raw data into actionable insights, and working with SQL for robust data querying and analysis.
+  </strong>
+</p>
+<p align="center">⚡ Fun fact: <strong>My love for programming started at age 12, initially driven by a dream of making games. Today, I’m always excited to learn and apply new technologies!</strong></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -16,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
