@@ -25,9 +25,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently:** Data Engineering Intern - Building data pipelines and automating ETL processes with Python and SQL
+- 🔭 **Currently:** Fintech Intern - Helping build and optimize financial technology solutions
 - 🚀 **Passionate about:** Software development, particularly backend systems and APIs
-- 🌱 **Learning:** Java, Spring Boot, and cloud-native architectures
+- 🌱 **Learning:** Electron and TypeScript
 - 💡 **Background:** Experience in hackathons and programming competitions
 - 🎮 **Fun fact:** Started coding at 12 to make games - now I build systems that power the digital world!
 
@@ -40,7 +40,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <h4 align="center">Frontend</h4>
